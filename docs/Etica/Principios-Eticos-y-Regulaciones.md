@@ -1,13 +1,16 @@
-
-
+---
+title: Principios Éticos y Regulaciones para el Uso de IA en Educación y Filosofía (Chile)
+parent: Ética
+nav_order: 4
+---
 
 # Principios Éticos y Regulaciones para el Uso de IA en Educación y Filosofía (Chile)
 
-## 1. Introducción
+## 1. 📝 Introducción
 
 El uso de la Inteligencia Artificial (IA) en la educación y la filosofía abre oportunidades para mejorar la enseñanza y el aprendizaje, pero también plantea desafíos éticos y legales. Para docentes y estudiantes en Chile, comprender los principios éticos y las regulaciones aplicables es fundamental para promover un uso responsable, seguro y justo de estas tecnologías. Este documento presenta una visión general adaptada al contexto chileno.
 
-## 2. Principios Éticos Internacionales
+## 2. 🌐 Principios Éticos Internacionales
 
 Diversos organismos internacionales han establecido principios para guiar el desarrollo y uso responsable de la IA. Los más relevantes incluyen:
 
@@ -19,9 +22,13 @@ Diversos organismos internacionales han establecido principios para guiar el des
   - Fomenta el crecimiento inclusivo, el bienestar humano, la transparencia, la solidez técnica y la responsabilidad.
   - [Principios de la OCDE](https://oecd.ai/en/ai-principles)
 
+- **CELAC – Declaración sobre Principios Éticos para la IA (2023):**
+  - Reconoce la importancia de un enfoque latinoamericano que priorice la inclusión social, la diversidad cultural y la soberanía tecnológica en el desarrollo y uso de IA.
+  - [Texto de la Declaración (CELAC)](https://celac.rree.gob.sv/declaracion-principios-ia/)
+
 Estos principios pueden consultarse en mayor profundidad en la sección [Ética y Responsabilidad en IA](Ética-y-Responsabilidad-en-IA.md).
 
-## 3. Marco Regulatorio Chileno
+## 3. 📜 Marco Regulatorio Chileno
 
 En Chile, el uso de IA se encuentra influenciado por normativas existentes y proyectos de ley en desarrollo:
 
@@ -40,7 +47,7 @@ En Chile, el uso de IA se encuentra influenciado por normativas existentes y pro
 
 Revisa también la sección [Sesgos, Equidad y Justicia en IA](Sesgos-Equidad-y-Justicia-en-IA.md).
 
-## 4. Buenas Prácticas en el Aula
+## 4. 🎓 Buenas Prácticas en el Aula
 
 Para cumplir con los principios éticos y las regulaciones, se recomienda:
 
@@ -50,10 +57,11 @@ Para cumplir con los principios éticos y las regulaciones, se recomienda:
 - Proteger la privacidad y los datos personales de todos los participantes.
 - Promover la inclusión y el acceso equitativo a las tecnologías.
 - Consultar regularmente las actualizaciones legales y éticas relevantes.
+- Integrar el enfoque de capacidades de Sen y Nussbaum para evaluar el impacto de la IA en el desarrollo integral de los estudiantes, con especial atención a la equidad y la autonomía. Véase [[Capacidades-Clave-Educacion-IA.md|Capacidades clave en educación y IA generativa]].
 
 Puedes encontrar un listado detallado en el [Manual de Buenas Prácticas](Manual-de-Buenas-Practicas.md).
 
-## 5. Recursos Oficiales
+## 5. 📚 Recursos Oficiales
 
 - **Gobierno de Chile:**
   - [Gobierno Digital – Estrategia Nacional de Inteligencia Artificial](https://www.gob.cl/inteligenciaartificial/)
