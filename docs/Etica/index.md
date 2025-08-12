@@ -28,8 +28,8 @@ En esta sección encontrarás guías y marcos para comprender:
 ---
 
 ## 🔗 Enlaces relacionados
-- [[../Fundamentos/Conceptos-basicos-IA.md|Conceptos básicos de IA]]
-- [[../Fundamentos/IA-en-el-Aula.md|IA en el Aula: Herramientas y Usos Actuales]]
-- [[../Herramientas/Manual-de-Buenas-Practicas.md|Manual de Buenas Prácticas]]
+- [Conceptos básicos de IA]({% link docs/Fundamentos/Conceptos-basicos-IA.md %})
+- [IA en el Aula: Herramientas y Usos Actuales]({% link docs/Fundamentos/IA-en-el-Aula.md %})
+- [Manual de Buenas Prácticas]({% link docs/Herramientas/Manual-de-Buenas-Practicas.md %})
 - [UNESCO – Guía para el uso de IA en educación e investigación](https://www.unesco.org/es/articles/guia-para-el-uso-de-ia-generativa-en-educacion-e-investigacion)
 - [OECD – Principios sobre Inteligencia Artificial](https://oecd.ai/en/ai-principles)
