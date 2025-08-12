@@ -23,4 +23,9 @@ aux_links:
   "Repositorio en GitHub":
     - "https://github.com/a-lfre-do/Filosof-IA"
 
+# Build/Markdown settings (safe for Jekyll 3.10)
+markdown: kramdown
+kramdown:
+  input: GFM
+
 footer_content: "Hecho con ❤️ por docentes y estudiantes. Licencia CC BY-SA 4.0."
