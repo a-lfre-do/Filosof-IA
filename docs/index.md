@@ -1,7 +1,8 @@
 ---
-layout: home
 title: FilosofIA
 nav_order: 1
+has_children: true
+has_toc: false   
 ---
 
 # 🏛️ FilosofIA — Wiki de IA en Educación y Filosofía
