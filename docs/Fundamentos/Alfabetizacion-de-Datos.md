@@ -1,3 +1,9 @@
+---
+title: Alfabetización de Datos
+nav_order: 6
+parent: Fundamentos
+---
+
 # 📘 Alfabetización de Datos en Contexto Educativo  
 
 La **alfabetización de datos** es la capacidad de comprender, evaluar y usar de forma crítica los datos generados por sistemas de inteligencia artificial en la educación. Para docentes y estudiantes, esta competencia es esencial en una era donde cada interacción digital produce información.  
@@ -35,7 +41,6 @@ Organiza un taller de **“Caza de Sesgos”**:
 
 ## 🔗 Enlaces internos  
 
-- [[Analitica-del-Aprendizaje]]  
-- [[Sesgos-Equidad-Justicia]]  
-- [[Etica-y-Responsabilidad-en-IA]]  
-
+- [Analítica del Aprendizaje](./Analitica-del-Aprendizaje.md)  
+- [Sesgos, Equidad y Justicia](./Sesgos-Equidad-Justicia.md)  
+- [Ética y Responsabilidad en IA](../Etica/Etica-y-Responsabilidad-en-IA.md)

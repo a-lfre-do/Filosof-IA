@@ -1,9 +1,15 @@
+---
+title: Plantillas de Prompts
+nav_order: 4
+parent: Herramientas
+---
+
 # 📝 Plantillas de Prompts para Filosofía y Debates
 
-Este archivo reúne **plantillas de prompts estructurados** para docentes que deseen utilizar modelos de lenguaje (IA) en clases de filosofía, debates y actividades argumentativas.  
-Las plantillas están diseñadas para facilitar la aplicación de técnicas de [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes.md), ayudando a definir roles, contexto y formato de salida para obtener respuestas útiles, claras y alineadas a los objetivos pedagógicos.
+Este archivo reúne **plantillas de prompts estructurados** para docentes que deseen utilizar modelos de lenguaje (IA) en clases de filosofía, debates y actividades argumentativas en el aula o en entornos virtuales.  
+Las plantillas están diseñadas para facilitar la aplicación de técnicas de [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes), ayudando a definir roles, contexto y formato de salida para obtener respuestas útiles, claras y alineadas a los objetivos pedagógicos.
 
-> **Sugerencia:** Antes de usar estas plantillas, revisa la guía general en [Prompt-Engineering-para-Docentes.md](./Prompt-Engineering-para-Docentes.md) y consulta el [Manual-de-Buenas-Practicas.md](./Manual-de-Buenas-Practicas.md) para recomendaciones adicionales sobre el uso de IA en el aula.
+> **Sugerencia:** Antes de usar estas plantillas, revisa la guía general en [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes) y consulta el [Manual de Buenas Prácticas](./Manual-de-Buenas-Practicas) para recomendaciones adicionales sobre el uso de IA en el aula.
 
 ---
 
@@ -159,5 +165,12 @@ Las plantillas están diseñadas para facilitar la aplicación de técnicas de [
 ---
 
 ## 📎 Referencias internas
-- Para fundamentos y técnicas, consulta [Prompt-Engineering-para-Docentes.md](./Prompt-Engineering-para-Docentes.md)
-- Para recomendaciones y normas de uso responsable, revisa [Manual-de-Buenas-Practicas.md](./Manual-de-Buenas-Practicas.md)
+- Para fundamentos y técnicas, consulta [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes)
+- Para recomendaciones y normas de uso responsable, revisa [Manual de Buenas Prácticas](./Manual-de-Buenas-Practicas)
+
+---
+
+## 🔗 Enlaces relacionados
+- [Fundamentos: Conceptos básicos de IA](../Fundamentos/Conceptos-basicos-IA)
+- [Fundamentos: IA en el Aula](../Fundamentos/IA-en-el-Aula)
+- [Ética: Evaluación de Impacto en Entornos Educativos](../Etica/Evaluacion-de-Impacto)

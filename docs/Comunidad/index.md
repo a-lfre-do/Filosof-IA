@@ -23,6 +23,6 @@ En esta sección reunimos todo lo necesario para **sumarte a FilosofIA**: formas
 
 ### Sugerencias de aportes
 - Añadir ejemplos de aula y actividades con IA.
-- Proponer lecturas y recursos en español para la sección [[../Biblioteca/Lecturas-Recomendadas.md|Lecturas Recomendadas]].
+- Proponer lecturas y recursos en español para la sección [Lecturas Recomendadas](../Biblioteca/Lecturas-Recomendadas.md).
 - Reportar enlaces rotos o inconsistencias entre páginas.
 - Mejorar el *front matter* (títulos, orden, `parent`) para la navegación.

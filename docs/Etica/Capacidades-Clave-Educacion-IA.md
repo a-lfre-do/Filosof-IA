@@ -72,6 +72,6 @@ Este marco busca ayudar a **docentes y estudiantes** a identificar riesgos y dis
 ---
 
 ## 🔗 Enlaces relacionados
-- [[Evaluacion-de-Impacto.md|Evaluación de Impacto en Entornos Educativos]]
-- [[Principios-Eticos-y-Regulaciones.md|Principios Éticos y Regulaciones]]
-- [[Etica-y-Responsabilidad-en-IA.md|Ética y Responsabilidad en IA]]
+- [Evaluación de Impacto en Entornos Educativos](./Evaluacion-de-Impacto.md)
+- [Principios Éticos y Regulaciones](./Principios-Eticos-y-Regulaciones.md)
+- [Ética y Responsabilidad en IA](./Etica-y-Responsabilidad-en-IA.md)

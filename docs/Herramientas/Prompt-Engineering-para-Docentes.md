@@ -1,3 +1,8 @@
+---
+title: Prompt Engineering para Docentes
+nav_order: 3
+parent: Herramientas
+---
 # 🎙️ Prompt Engineering para Docentes
 
 El **Prompt Engineering** es el arte y la técnica de diseñar instrucciones claras, estructuradas y efectivas para interactuar con **Modelos de Lenguaje (LLM)** como ChatGPT.  
@@ -64,15 +69,15 @@ Se trata de **diseñar la interacción completa** (no solo el prompt aislado), t
 ---
 
 ## 📂 Recursos Relacionados
-- [[Plantillas de Prompts para Debates]]  
-- [[Manual de Buenas Prácticas en el Aula]]  
-- [[Etica-y-Responsabilidad-en-IA]]  
+- [📄 Plantillas de Prompts para Debates](./Plantillas-de-Prompts-para-Debates.md)  
+- [📘 Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas-en-el-Aula.md)  
+- [⚖️ Ética y Responsabilidad en IA](../Etica/Etica-y-Responsabilidad-en-IA.md)  
 
 ---
 
 ## 🚀 Próximo Paso
-Explora [[Plantillas de Prompts para Debates]] para comenzar a aplicar estas técnicas en tu primera sesión de debate asistido por IA.
+Explora [📄 Plantillas de Prompts para Debates](./Plantillas-de-Prompts-para-Debates.md) para comenzar a aplicar estas técnicas en tu primera sesión de debate asistido por IA.
 
 ---
 
-> Nota: Para un enfoque complementario centrado en reglas, políticas y ejemplos prácticos de aplicación en el aula, consulta también el [[Manual de Buenas Prácticas en el Aula]].
+> Nota: Para un enfoque complementario centrado en reglas, políticas y ejemplos prácticos de aplicación en el aula, consulta también el [📘 Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas-en-el-Aula.md).

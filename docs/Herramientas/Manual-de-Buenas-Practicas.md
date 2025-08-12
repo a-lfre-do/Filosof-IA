@@ -1,3 +1,10 @@
+---
+title: Manual de Buenas Prácticas en el Aula
+nav_order: 2
+parent: Herramientas
+has_toc: true
+---
+
 # 📚 Manual de Buenas Prácticas en el Aula (Docentes y Estudiantes)
 
 Este manual ofrece pautas claras para integrar **IA generativa** (p. ej., LLMs) en el aula de forma **ética, segura y pedagógica**. Sirve tanto para **docentes** como para **estudiantes**, con listas de verificación, ejemplos paso a paso y plantillas.

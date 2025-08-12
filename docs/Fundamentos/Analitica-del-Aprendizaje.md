@@ -1,3 +1,9 @@
+---
+title: Analítica del Aprendizaje
+nav_order: 5
+parent: Fundamentos
+---
+
 # 📊 Analítica del Aprendizaje y Dashboards Educativos
 
 La **analítica del aprendizaje** consiste en recolectar y analizar datos de la actividad estudiantil para **mejorar la enseñanza y el aprendizaje**. Con la ayuda de la IA, esta práctica se ha expandido hacia paneles (*dashboards*) que permiten visualizar información clave para docentes y estudiantes.  
@@ -32,21 +38,21 @@ La **analítica del aprendizaje** consiste en recolectar y analizar datos de la 
 - **Interpretación crítica**: no todos los indicadores reflejan el aprendizaje real.  
 - **Sesgos**: los algoritmos pueden reforzar desigualdades si no se revisan.  
 
-## 📌 Caso aplicado  
+## 📌 Caso Aplicado  
 
 En un curso de filosofía:  
-- Un dashboard muestra qué lecturas fueron más consultadas.  
-- El docente detecta que pocos alumnos accedieron a textos de Simone de Beauvoir.  
-- Propone una discusión obligatoria para integrar esa perspectiva.  
+- Un dashboard con información sobre navegación dentro de un Moodle o curso virtual puede mostrar qué lecturas fueron más consultadas.  
+   Ejemplo:
+   - El docente detecta que pocos alumnos accedieron a textos de Simone de Beauvoir.  
+   - Propone una discusión obligatoria para integrar esa perspectiva.  
 
-## 🌍 Referencias externas  
+## 🌍 Referencias Externas  
 
 - [Artificial Intelligence and the Future of Teaching and Learning – U.S. Department of Education](https://content.acsa.org/artificial-intelligence-and-the-future-of-teaching-and-learning/)  
 - [OECD AI Principles](https://aiethicslab.rutgers.edu/glossary/oecd-ai-principles/)  
 
-## 🔗 Enlaces internos  
+## 🔗 Enlaces Internos  
 
-- [[Personalización y Sistemas Adaptativos]]  
-- [[Etica-y-Responsabilidad-en-IA]]  
-- [[Manual de Buenas Prácticas en el Aula]]  
-
+- [Personalización y Sistemas Adaptativos](./Personalizacion-y-Sistemas-Adaptativos.md)  
+- [Ética y Responsabilidad en IA](../Etica/Etica-y-Responsabilidad-en-IA.md)  
+- [Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas.md)  
