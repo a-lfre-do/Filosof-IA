@@ -1,9 +1,3 @@
----
-layout: home
-title: FilosofIA
-nav_order: 1
----
-
 # 🏛️ FilosofIA — Wiki de IA en Educación y Filosofía
 
 Bienvenido/a a **FilosofIA**, un proyecto colaborativo para docentes y estudiantes que desean integrar la inteligencia artificial de forma crítica, ética y pedagógica en el aula.
