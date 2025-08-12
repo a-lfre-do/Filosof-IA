@@ -1,8 +1,13 @@
+---
+title: Cómo Contribuir a la Wiki FilosofIA
+parent: Comunidad
+nav_order: 1
+---
 # Cómo Contribuir a la Wiki FilosofIA
 
 ## Introducción
 
-¡Gracias por tu interés en colaborar con la wiki de FilosofIA! Este proyecto es una comunidad abierta que busca construir y compartir conocimiento filosófico de manera accesible y rigurosa. Tu contribución, ya sea creando contenido nuevo o mejorando el existente, es muy valiosa para nosotros.
+¡Gracias por tu interés en colaborar con la wiki de FilosofIA! Este proyecto es una comunidad abierta que busca construir y compartir conocimiento filosófico de manera accesible y rigurosa. Tu contribución, ya sea creando contenido nuevo o mejorando el existente, es muy valiosa para la comunidad.
 
 ## Tipos de contribuciones posibles
 
