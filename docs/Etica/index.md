@@ -21,6 +21,7 @@ En esta sección encontrarás guías y marcos para comprender:
 ## 📂 Páginas de esta sección
 - 📜 [Principios Éticos y Regulaciones para el Uso de IA en Educación y Filosofía (Chile)](./Principios-Eticos-y-Regulaciones.md)
 - 🧮 [Evaluación de Impacto en Entornos Educativos](./Evaluacion-de-Impacto.md)
+- 🎯 [Capacidades clave en educación y IA generativa](./Capacidades-Clave-Educacion-IA.md)
 - ⚖️ [Sesgos, Equidad y Justicia en IA](../Fundamentos/Sesgos-Equidad-Justicia.md)
 - 📚 [Ética y Responsabilidad en IA](./Etica-y-Responsabilidad-en-IA.md)
 
