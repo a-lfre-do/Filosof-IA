@@ -1,15 +1,15 @@
 title: FilosofIA
 description: Wiki colaborativa sobre IA generativa en educación y filosofía
-theme: just-the-docs
 
-# Base para GitHub Pages
-baseurl: "/docs" 
-url: "https://Filosof-IA.github.io"  
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
 
-# Navegación
+url: "https://a-lfre-do.github.io"
+baseurl: "/Filosof-IA"
+
 aux_links:
   "Repositorio en GitHub":
-    - "https://github.com/a-lfre-do/Filosof-IA.github.io"
+    - "https://github.com/a-lfre-do/Filosof-IA"
 
-# Footer
 footer_content: "Hecho con ❤️ por docentes y estudiantes. Licencia CC BY-SA 4.0."
