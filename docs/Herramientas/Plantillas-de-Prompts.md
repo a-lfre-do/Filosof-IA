@@ -1,7 +1,3 @@
-
-
----
-
 # 📝 Plantillas de Prompts para Filosofía y Debates
 
 Este archivo reúne **plantillas de prompts estructurados** para docentes que deseen utilizar modelos de lenguaje (IA) en clases de filosofía, debates y actividades argumentativas.  
