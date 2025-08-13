@@ -54,4 +54,4 @@ Los documentos oficiales del torneo están disponibles en el repositorio:
 
 ## 🖼️ Imagen oficial
 
-![Imagen oficial del Desafío Filosof-IA 2025](/Debates/2025/Imagen_Oficial_Desafio_FilosofIA_2025.png)
+![Imagen oficial del Desafío Filosof-IA 2025](/Filosof-IA/docs/Debates/2025/Imagen_Oficial_Desafio_FilosofIA_2025.png)
