@@ -27,6 +27,14 @@ Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóric
 
 ---
 
+## 📢 Contenidos destacados
+
+- 📝 [Noticias y Actualizaciones](Comunidad/Noticias-Actualizaciones.md)
+- 🎓 [Eventos y Talleres](Comunidad/Eventos-Talleres.md)
+- 🗣️ [Debates 2025](Debates/2025/index.md)
+
+---
+
 ## 🗺️ Estructura
 
 Explora las principales secciones:
