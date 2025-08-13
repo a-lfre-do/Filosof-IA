@@ -1,7 +1,9 @@
 title: "FilosofIA"
 description: Wiki colaborativa sobre IA generativa en educación y filosofía
 remote_theme: just-the-docs/just-the-docs
-
+just_the_docs:
+  custom_css: assets/css/custom.scss
+  
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
@@ -13,7 +15,8 @@ plugins:
   - jekyll-include-cache
 
 # Navegación
-logo: false
+logo: /Filosof-IA/assets/images/Filosof-IA.png
+logo_alt: "FilosofIA"
 search_enabled: true
 
 url: "https://a-lfre-do.github.io"
