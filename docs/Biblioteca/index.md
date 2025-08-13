@@ -6,14 +6,14 @@ permalink: /Biblioteca/
 has_toc: false
 ---
 
-# 📚 Biblioteca de Recursos sobre IA en Educación y Filosofía
+# 📚 Biblioteca de Recursos sobre IA en Educación, Filosofía y Debates
 
 Esta sección recopila recursos seleccionados, documentos y enlaces que apoyan a docentes y estudiantes en la integración de la inteligencia artificial de manera ética y crítica.
 
 ## 📂 Contenido
 
-- [Herramientas Online](./Herramientas-online.md)
-- [Lecturas Recomendadas](./Lecturas-Recomendadas.md)
+- [Herramientas Online](#)
+- [Lecturas Recomendadas](#)
 
 ## 🔗 Enlaces relacionados
 

@@ -4,84 +4,50 @@ nav_order: 2
 parent: Biblioteca
 ---
 
-# Lecturas Recomendadas sobre Inteligencia Artificial, Educación y Filosofía
+# 📓 Lecturas y recursos recomendados
 
-Esta sección tiene como objetivo proporcionar una selección curada de libros esenciales para quienes desean profundizar en la intersección entre la inteligencia artificial, la educación y la filosofía. Encontrarás títulos en español e inglés, junto con lecturas adicionales para ampliar tu perspectiva.
-
----
-
-## 📘 Lecturas en Español
-
-1. 📘 **"La Inteligencia Artificial: Cómo cambiará el mundo"** — Ramón López de Mántaras (2017)  
-   Una introducción accesible a los fundamentos y aplicaciones de la IA, escrita por uno de los pioneros en el campo en España.  
-   [Referencia](https://www.alianzaeditorial.es/libro/el-libro-de/la-inteligencia-artificial-ramon-lopez-de-mantaras-9788491810646/)
-
-2. 📘 **"Inteligencia Artificial: Una guía para humanos pensantes"** — Melanie Mitchell (2020, traducción)  
-   Explica los conceptos clave de la IA y sus implicaciones éticas y sociales, con ejemplos claros y actuales.  
-   [Referencia](https://www.alianzaeditorial.es/libro/alianza-ensayo/inteligencia-artificial-melanie-mitchell-9788491818437/)
-
-3. 📘 **"La era de las máquinas espirituales"** — Ray Kurzweil (2001, traducción)  
-   Reflexión sobre el futuro de la inteligencia artificial y su impacto en la humanidad.  
-   [Referencia](https://www.planetadelibros.com/libro-la-era-de-las-maquinas-espirituales/124710)
-
-4. 📘 **"Ética para máquinas"** — José Ignacio Latorre (2019)  
-   Explora los desafíos éticos que plantea la IA desde una perspectiva filosófica y práctica.  
-   [Referencia](https://www.arpaeditores.com/libro/etica-para-maquinas/)
-
-5. 📘 **"Filosofía y futuro de la inteligencia artificial"** — José Hernández-Orallo (2021)  
-   Analiza los límites filosóficos de la IA y sus posibles trayectorias.  
-   [Referencia](https://www.trotta.es/libro/filosofia-y-futuro-de-la-inteligencia-artificial_9788498799494/)
-
-6. 📘 **"Aprendizaje automático: El aprendizaje profundo explicado con sencillez"** — Carlos Santana (2022)  
-   Una introducción clara al aprendizaje profundo y su relevancia en la educación y la sociedad.  
-   [Referencia](https://elgatoylacaja.com.ar/aprendizaje-automatico/)
-
-7. 📘 **"La inteligencia artificial explicada a mi hija"** — Ramón López de Mántaras (2018)  
-   Un libro divulgativo para jóvenes y adultos sobre los conceptos básicos y desafíos de la IA.  
-   [Referencia](https://www.planetadelibros.com/libro-la-inteligencia-artificial-explicada-a-mi-hija/247838)
+Recopilación de guías, cursos, bibliotecas de prompts, artículos y recursos abiertos sobre **IA generativa, educación y filosofía** con enfoque en Latinoamérica.
 
 ---
 
-## 📗 Lecturas en Inglés
+## ✍️ Guías de políticas y lineamientos
 
-1. 📗 **"Artificial Intelligence: A Guide for Thinking Humans"** — Melanie Mitchell (2019)  
-   Una visión crítica y accesible sobre los avances y límites de la IA.  
-   [Reference](https://www.penguinrandomhouse.com/books/563403/artificial-intelligence-by-melanie-mitchell/)
-
-2. 📗 **"Superintelligence: Paths, Dangers, Strategies"** — Nick Bostrom (2014)  
-   Análisis profundo sobre los posibles futuros de la IA avanzada y los riesgos existenciales.  
-   [Reference](https://www.oxforduniversitypress.com/academic/product/superintelligence-9780198739838)
-
-3. 📗 **"Weapons of Math Destruction"** — Cathy O'Neil (2016)  
-   Examina cómo los algoritmos pueden amplificar la injusticia y desigualdad en la sociedad.  
-   [Reference](https://weaponsofmathdestructionbook.com/)
-
-4. 📗 **"The Alignment Problem: Machine Learning and Human Values"** — Brian Christian (2020)  
-   Explora el desafío de alinear los sistemas de IA con los valores humanos.  
-   [Reference](https://wwnorton.com/books/9780393635829)
-
-5. 📗 **"The Age of Em: Work, Love, and Life when Robots Rule the Earth"** — Robin Hanson (2016)  
-   Imagina un futuro dominado por inteligencias artificiales y su impacto en la sociedad.  
-   [Reference](https://ageofem.com/)
-
-6. 📗 **"Artificial Unintelligence: How Computers Misunderstand the World"** — Meredith Broussard (2018)  
-   Crítica a la sobreestimación de las capacidades de la IA y sus limitaciones actuales.  
-   [Reference](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/)
-
-7. 📗 **"You Look Like a Thing and I Love You"** — Janelle Shane (2019)  
-   Una introducción divertida y reveladora a los errores y peculiaridades de la IA moderna.  
-   [Reference](https://www.janelleshane.com/book)
+| Recurso | Características | Fuente | Idioma | Licencia |
+| --- | --- | --- | --- | --- |
+| [**Guidance for generative AI in education and research**](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) | Guía global UNESCO para políticas y ética en IA generativa en educación. | UNESCO | EN / ES | Acceso abierto |
+| [**La inteligencia artificial en la educación (UNESCO)**](https://www.unesco.org/es/digital-education/artificial-intelligence) | Portal con políticas, proyectos y recomendaciones en IA educativa. | UNESCO | ES / EN | Acceso abierto |
+| [**El Observatorio de Políticas de Inteligencia Artificial de la OCDE**](https://oecd.ai/en/) | Políticas y análisis para promover IA confiable, con recursos alineados a Principios OCDE. | OCDE | EN | Acceso abierto |
+| [**El futuro de la inteligencia artificial en educación en América Latina**](https://oei.int/oficinas/secretaria-general/publicaciones/el-futuro-de-la-inteligencia-artificial-en-educacion-en-america-latina) | Informe sobre posibilidades, riesgos y límites de la IA en la región. | OEI | ES | Acceso abierto |
 
 ---
 
-## 📚 Lecturas adicionales
+## 📚 Cursos y programas gratuitos
 
-- 📚 **"Human Compatible: Artificial Intelligence and the Problem of Control"** — Stuart Russell (2019)
-- 📚 **"Life 3.0: Being Human in the Age of Artificial Intelligence"** — Max Tegmark (2017)
-- 📚 **"Ethics of Artificial Intelligence and Robotics"** — Stanford Encyclopedia of Philosophy (artículo en línea)
-- 📚 **"Educating Learners with Artificial Intelligence: Perspectives from Philosophy, Education and Technology"** — Wayne Holmes et al. (2022)
-- 📚 **"Homo Deus: Breve historia del mañana"** — Yuval Noah Harari (2016)
+| Recurso | Características | Fuente | Idioma | Licencia |
+| --- | --- | --- | --- | --- |
+| [**La inteligencia artificial en la educación (curso)**](https://www.unesco.org/es/digital-education/artificial-intelligence) | Curso abierto con conceptos, ética y casos de uso. | UNESCO | ES | Acceso abierto |
 
+---
+
+## 📃 Artículos y estudios
+
+| Recurso | Características | Fuente | Idioma | Licencia |
+| --- | --- | --- | --- | --- |
+| [**IA para la recomendación de recursos educativos**](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-61802024000200006) | Uso de IA para recomendar recursos y mejorar el aprendizaje. | RIED | ES | Open Access |
+| [**La Inteligencia Artificial en Educación**](https://dialnet.unirioja.es/descarga/libro/926431.pdf) | Tendencias, retos y perspectivas éticas en educación. | Universidad (Dialnet) | ES | CC BY-NC |
+
+---
+
+## 📺 Otros recursos educativos y filosóficos
+
+| Recurso | Características | Fuente | Idioma | Licencia |
+| --- | --- | --- | --- | --- |
+| [**Ethics of Artificial Intelligence and Robotics**](https://plato.stanford.edu/entries/ethics-ai/) | Entrada del *Stanford Encyclopedia of Philosophy* sobre dilemas éticos y filosóficos de IA. | Stanford University | EN | CC BY-NC |
+
+
+---
+
+💡 *Esta selección facilita a docentes y responsables de políticas la adopción ética y efectiva de herramientas de IA en educación en Latinoamérica. Todas las fuentes son abiertas o gratuitas y priorizan la calidad académica.*
 ---
 
 ## 🔗 Enlaces internos relacionados
