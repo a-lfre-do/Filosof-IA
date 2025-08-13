@@ -61,10 +61,10 @@ Participan **equipos de 3° y 4° medio** acompañados/as por sus docentes de fi
 
 ## 📑 Documentos oficiales
 
-- [Bases DESAFÍO Filosofía 2025 (PDF)](Bases_Desafio_FilosofIA_2025.pdf)  
-- [Estructura y formato (PDF)](Estructura_y_formato_2025.pdf)  
-- [Tema 2025 (PDF)](Tema_2025.pdf)
+- [Bases DESAFÍO Filosofía 2025 (PDF)](/2025/Bases_Desafio_FilosofIA_2025.pdf)  
+- [Estructura y formato (PDF)](/2025/Estructura_y_formato_2025.pdf)  
+- [Tema 2025 (PDF)](/2025/Tema_2025.pdf)
 
 ## 🖼️ Imagen oficial
 
-![Imagen oficial del Desafío Filosof-IA 2025](Imagen_Oficial_Desafio_FilosofIA_2025.png)
+![Imagen oficial del Desafío Filosof-IA 2025](/2025/Imagen_Oficial_Desafio_FilosofIA_2025.png)
