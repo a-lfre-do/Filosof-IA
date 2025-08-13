@@ -12,7 +12,7 @@ Esta sección recopila recursos seleccionados, documentos y enlaces que apoyan a
 
 ## 📂 Contenido
 
-- [Herramientas Online](./Herramientas-Online.md)
+- [Herramientas Online](./Herramientas-online.md)
 - [Lecturas Recomendadas](./Lecturas-Recomendadas.md)
 
 ## 🔗 Enlaces relacionados
