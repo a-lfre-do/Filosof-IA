@@ -1,5 +1,5 @@
 ---
-title:📚 Fundamentos
+title: 📚 Fundamentos
 nav_order: 4
 has_children: true
 permalink: /Fundamentos/

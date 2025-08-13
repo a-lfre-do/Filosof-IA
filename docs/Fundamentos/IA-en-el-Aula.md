@@ -1,5 +1,5 @@
 ---
-title: IA en el Aula: Herramientas y Usos Actuales
+title: IA en el Aula, Herramientas y Usos Actuales
 nav_order: 4
 parent: Fundamentos
 permalink: /Fundamentos/IA-en-el-Aula

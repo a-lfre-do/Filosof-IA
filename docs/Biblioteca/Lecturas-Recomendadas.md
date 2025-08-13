@@ -1,5 +1,5 @@
 ---
-title: Lecturas Recomendadas
+title: 📘 Lecturas Recomendadas
 nav_order: 2
 parent: Biblioteca
 ---

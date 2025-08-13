@@ -17,7 +17,6 @@ Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóric
 
 - 📘 [Guía de Inicio](Guia-de-Inicio.md)
 - 🔍 [Mapa Completo de Contenidos](Mapa-Completo-de-Contenidos.md)
-- 💡 [Objetivos del Proyecto](Objetivos-del-Proyecto.md)
 - 🤖 [Conceptos Básicos de IA](Fundamentos/Conceptos-basicos-IA.md)
 - 📚 [Lecturas Recomendadas](Biblioteca/Lecturas-Recomendadas.md)
 - 🛠️ [Manual de Buenas Prácticas](Herramientas/Manual-de-Buenas-Practicas.md)
