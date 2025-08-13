@@ -25,7 +25,7 @@ Cada contribución se clasifica siguiendo las secciones principales de la wiki:
 5. **Biblioteca** – lecturas recomendadas, recursos de referencia.
 6. **Comunidad** – guías de colaboración y coordinación.
 
-> Consulta la [Guía de Inicio](../Guia-de-Inicio.md) para entender la estructura completa del sitio.
+> Consulta la [Guía de Inicio](/Guia-de-Inicio.md) para entender la estructura completa del sitio.
 
 ---
 
@@ -52,7 +52,7 @@ Cada contribución se clasifica siguiendo las secciones principales de la wiki:
 ## 📌 Buenas prácticas
 - Usar **Markdown** con sintaxis clara.
 - Mantener títulos cortos y precisos.
-- Incluir **enlaces internos** (`[[Nombre de la página]]`) cuando sea posible.
+- Incluir **enlaces internos** usando formato `[Texto](/ruta/archivo.md)` cuando sea posible.
 - Evitar duplicar contenido que ya exista; mejor complementarlo o actualizarlo.
 - Usar **archivos sin espacios** en el nombre (guiones medios `-` para separar palabras).
 
@@ -65,6 +65,5 @@ Esto significa que cualquiera puede reutilizar y modificar el contenido, citando
 ---
 
 **Enlaces relacionados:**
-- [[Como-Contribuir.md|Cómo Contribuir a la Wiki FilosofIA]]
-- [[../Biblioteca/Lecturas-Recomendadas.md|Lecturas Recomendadas]]
-
+- [Cómo Contribuir a la Wiki FilosofIA](/Comunidad/Como-Contribuir.md)
+- [Lecturas Recomendadas](/Biblioteca/Lecturas-Recomendadas.md)

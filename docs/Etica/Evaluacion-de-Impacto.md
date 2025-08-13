@@ -16,7 +16,7 @@ Este enfoque se orienta a determinar si la actividad fomenta las **capacidades h
 
 ## 📚 Capacidades clave a evaluar
 
-Consulta también [[Capacidades-Clave-Educacion-IA.md|la explicación detallada de cada capacidad y su interpretación en contextos educativos con IA generativa]].
+Consulta también [la explicación detallada de cada capacidad y su interpretación en contextos educativos con IA generativa](./Capacidades-Clave-Educacion-IA.md).
 
 - **Sentidos, Imaginación y Pensamiento**  
   Considerar si la IA estimula o limita las facultades cognitivas. El trabajo repetitivo o simplificado puede mermar la creatividad y la complejidad intelectual.
@@ -92,8 +92,8 @@ Un debate con IA puede evaluarse en base a:
 ---
 
 ## 🔗 Enlaces relacionados
-- [[Principios-Eticos-y-Regulaciones.md|Principios Éticos y Regulaciones para el Uso de IA]]
-- [[Etica-y-Responsabilidad-en-IA.md|Ética y Responsabilidad en IA]]
+- [Principios Éticos y Regulaciones para el Uso de IA](./Principios-Eticos-y-Regulaciones.md)
+- [Ética y Responsabilidad en IA](./Etica-y-Responsabilidad-en-IA.md)
 - [UNESCO – Recomendación sobre la Ética de la IA](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa)
 
 ---

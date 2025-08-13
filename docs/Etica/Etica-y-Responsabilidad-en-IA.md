@@ -17,7 +17,7 @@ Esta página sintetiza los principales enfoques y recomendaciones para integrar 
    Los LLM pueden generar respuestas plausibles pero incorrectas (*alucinaciones*). Se recomienda contrastar sus afirmaciones con fuentes confiables y enseñar a los estudiantes a cuestionar críticamente la veracidad de la información que reciben.
 
 2. **Equidad y no discriminación**  
-   Los modelos aprenden de datos que pueden contener sesgos. Diseña prompts y actividades que incluyan diversas perspectivas y promueve la reflexión sobre cómo los prejuicios se introducen en la IA. → [[../Fundamentos/Sesgos-Equidad-Justicia.md|Sesgos, Equidad y Justicia en IA]]
+   Los modelos aprenden de datos que pueden contener sesgos. Diseña prompts y actividades que incluyan diversas perspectivas y promueve la reflexión sobre cómo los prejuicios se introducen en la IA. → [Sesgos, Equidad y Justicia en IA](../Fundamentos/Sesgos-Equidad-Justicia.md)
 
 3. **Privacidad y consentimiento**  
    No se deben introducir datos personales o sensibles. En Chile aplica la **Ley 19.628 de Protección de la Vida Privada** y su futura actualización (proyecto de ley de datos personales), además de la legislación sectorial en educación. En el contexto latinoamericano, se recomienda alinear el uso de IA con la **Recomendación sobre la Ética de la IA de la UNESCO** y las orientaciones de la CEPAL.
@@ -40,7 +40,7 @@ Esta página sintetiza los principales enfoques y recomendaciones para integrar 
 
 - **Integra la diversidad**  
   Utiliza prompts que incorporen perspectivas de distintas corrientes filosóficas y autores no hegemónicos.  
-  Ejemplo: [[../Herramientas/Prompt-Engineering-para-Docentes.md|Prompt Engineering para Docentes]].
+  Ejemplo: [Prompt Engineering para Docentes](../Herramientas/Prompt-Engineering-para-Docentes.md).
 
 - **Actualiza tus conocimientos**  
   Las guías y leyes evolucionan rápidamente. Revisa regularmente los marcos normativos y ajusta tus prácticas.
@@ -66,8 +66,8 @@ Incluir estos temas en la enseñanza de la filosofía permite a los estudiantes 
 
 ## 🔗 Enlaces relacionados
 
-- [[Principios-Eticos-y-Regulaciones.md|Principios Éticos y Regulaciones para el Uso de IA]]
-- [[Evaluacion-de-Impacto.md|Evaluación de Impacto en Entornos Educativos]]
+- [Principios Éticos y Regulaciones para el Uso de IA](Principios-Eticos-y-Regulaciones.md)
+- [Evaluación de Impacto en Entornos Educativos](Evaluacion-de-Impacto.md)
 - [UNESCO – Recomendación sobre la Ética de la IA](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa)
 - [CEPAL – Gobernanza de la Inteligencia Artificial](https://www.cepal.org/es/publicaciones/48580-gobernanza-la-inteligencia-artificial-america-latina-caribe-desafios-oportunidades)
 
