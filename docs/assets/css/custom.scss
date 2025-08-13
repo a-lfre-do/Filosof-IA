@@ -1,11 +1,19 @@
-/* Estilos personalizados para el logo de la barra lateral */
+/* Tamaño general para logo horizontal 2:1 */
 .site-logo img {
-  max-width: 120px; /* Ancho máximo en escritorio */
-  height: auto;    /* Mantener proporciones */
+  max-height: 80px; /* altura máxima en escritorio */
+  width: auto;      /* ajusta el ancho proporcionalmente */
 }
 
+/* Tablets / pantallas medianas como iPad */
+@media (max-width: 1024px) {
+  .site-logo img {
+    max-height: 100px; /* un poco más alto en pantallas medianas */
+  }
+}
+
+/* Móviles pequeños */
 @media (max-width: 468px) {
   .site-logo img {
-    max-width: 60px; /* Logo más pequeño en móviles */
+    max-height: 50px;
   }
 }
