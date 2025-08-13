@@ -29,8 +29,10 @@ kramdown:
   input: GFM
 
 footer_content: >
-  <div style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;justify-content:flex-end">
-    <img src="/Filosof-IA/assets/images/logo-1.png" alt="Blasón Universidad de Chile" width="120">
-    <img src="/Filosof-IA/assets/images/logo-2.png" alt="Facultad de Filosofía y Humanidades, Universidad de Chile" width="120">
+  <p style="margin-bottom: 0.5em;">
+    Hecho con ❤️ por docentes y estudiantes. Licencia CC BY-SA 4.0.
+  </p>
+  <div style="display:flex;justify-content:space-between;align-items:center;max-width:400px;margin:0 auto;">
+    <img src="/Filosof-IA/assets/images/logo-1.png" alt="Blasón Universidad de Chile" style="width:120px;">
+    <img src="/Filosof-IA/assets/images/logo-2.png" alt="Facultad de Filosofía y Humanidades, Universidad de Chile" style="width:120px;">
   </div>
-  <p>Hecho con ❤️ por docentes y estudiantes. Licencia CC BY-SA 4.0.</p>
