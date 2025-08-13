@@ -21,6 +21,7 @@ Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóric
 
 ## 🧭 ¿Por dónde empezar?
 
+- 🏆 [Desafío Filosof-IA - Torneo Interescolar de Debates 2025](Debates/index.md)
 - 📘 [Guía de Inicio](Guia-de-Inicio.md)
 - 🔍 [Mapa Completo de Contenidos](Mapa-Completo-de-Contenidos.md)
 - 🤖 [Conceptos Básicos de IA](Fundamentos/Conceptos-basicos-IA.md)
@@ -35,10 +36,9 @@ Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóric
 
 ## 📢 Contenidos destacados
 
-- 📝 ["DESAFÍO FILOSOF-IA ¿Quién es responsable? IA y decisiones para políticas públicas"](https://filosofia.uchile.cl/noticias/230430/desafio-filosof-ia)
 - 📝 [Noticias y Actualizaciones](Comunidad/Noticias-Actualizaciones.md)
 - 🎓 [Eventos y Talleres](Comunidad/Eventos-Talleres.md)
-- 🗣️ [Debates 2025](Debates/2025/index.md)
+- 🗣️ [Debates 2025](Debates/index.md)
 
 ---
 
@@ -66,15 +66,19 @@ Más informaciones en: [CEDEA](https://filosofia.uchile.cl/cedea/) y en desafiof
 
 ---
 
+## 📰 Difusión
+
+- 📝 ["DESAFÍO FILOSOF-IA ¿Quién es responsable? IA y decisiones para políticas públicas"](https://filosofia.uchile.cl/noticias/230430/desafio-filosof-ia)
+
 ## 🗺️ Estructura
 
 Explora las principales secciones:
 
-- **Fundamentos**: introducción a la IA, su historia, adaptaciones al aula. ([Fundamentos/index.md](Fundamentos/index.md))
-- **Herramientas**: prompts, buenas prácticas, plantillas. ([Herramientas/index.md](Herramientas/index.md))
-- **Ética y regulación**: principios, sesgos, políticas. ([Etica/index.md](Etica/index.md))
-- **Casos prácticos**: simulaciones, debates, experimentos guiados. ([Casos-Practicos/index.md](Casos-Practicos/index.md))
-- **Comunidad**: cómo contribuir, ideas compartidas. ([Comunidad/index.md](Comunidad/index.md))
+- **Debates 2025**: Desafío Filosof-IA 2025 ([Debates/index.md](Debates/index.md)) 
+- **Fundamentos**: Introducción a la IA, su historia, adaptaciones al aula. ([Fundamentos/index.md](Fundamentos/index.md))
+- **Herramientas**: Prompts, buenas prácticas, plantillas. ([Herramientas/index.md](Herramientas/index.md))
+- **Ética y regulación**: Principios, sesgos, políticas. ([Etica/index.md](Etica/index.md))
+- **Comunidad**: Cómo contribuir, ideas compartidas. ([Comunidad/index.md](Comunidad/index.md))
 
 ---
 
