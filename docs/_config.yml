@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 # Navegación
-logo: /assets/images/Filosof-IA.png
+logo: /assets/images/Desafio-Filosof-IA.png
 logo_alt: "FilosofIA"
 search_enabled: true
 
@@ -34,7 +34,7 @@ kramdown:
 footer_content: >
   <p style="margin-bottom: 0.5em;">
     Hecho con ❤️ por docentes y estudiantes. Licencia CC BY-SA 4.0.
-  </p>
+  </p></br>
   <div style="display:flex;justify-content:space-between;align-items:center;max-width:400px;margin:0 auto;">
     <img src="/Filosof-IA/assets/images/logo-1.png" alt="Blasón Universidad de Chile" style="width:120px;">
     <img src="/Filosof-IA/assets/images/logo-2.png" alt="Facultad de Filosofía y Humanidades, Universidad de Chile" style="width:120px;">
