@@ -1,0 +1,11 @@
+/* Estilos personalizados para el logo de la barra lateral */
+.site-logo img {
+  max-width: 120px; /* Ancho máximo en escritorio */
+  height: auto;    /* Mantener proporciones */
+}
+
+@media (max-width: 468px) {
+  .site-logo img {
+    max-width: 60px; /* Logo más pequeño en móviles */
+  }
+}
