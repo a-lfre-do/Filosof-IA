@@ -24,7 +24,7 @@ Puedes contribuir de diversas maneras, entre ellas:
 
 Para contribuir a la wiki, sigue estos pasos básicos usando GitHub:
 
-1. **Fork:** Haz un fork del repositorio oficial de la wiki en GitHub: [Repositorio FilosofIA](https://github.com/a-lfre-do/FilosofIA-Wiki).
+1. **Fork:** Haz un fork del repositorio oficial de la wiki en GitHub: [Repositorio FilosofIA](https://github.com/a-lfre-do/Filosof-IA).
 
 2. **Clona tu fork:** Clona tu copia localmente para trabajar en ella.
 
@@ -44,7 +44,7 @@ Para mantener la consistencia y calidad en la wiki, sigue estas recomendaciones:
 - Emplea títulos, subtítulos, listas y negritas para mejorar la legibilidad.
 - Usa enlaces internos para conectar artículos relacionados, por ejemplo: `[Ética](./Etica.md)`.
 - Nombra los archivos sin espacios y preferentemente en minúsculas, usando guiones para separar palabras (ejemplo: `filosofia-politica.md`).
-- Consulta nuestra [Guía de estilo interna](https://github.com/a-lfre-do/FilosofIA-Wiki/blob/main/ESTILO.md) para detalles adicionales.
+- Puedes usar emojis en encabezados, utiliza una redacción inclusiva o neutra cuando sea posible. 
 
 ## Revisión y aprobación
 
@@ -52,7 +52,7 @@ Una vez enviado tu pull request, el equipo de revisión lo evaluará y podrá so
 
 ## Código de conducta
 
-Respetamos un ambiente colaborativo y cordial. Por favor, sigue nuestro [Código de Conducta](https://github.com/a-lfre-do/FilosofIA-Wiki/blob/main/CODE_OF_CONDUCT.md) para garantizar una experiencia positiva para todos.
+Respetamos un ambiente colaborativo y cordial. Estamos elaborando un Código de conducta para garantizar una experiencia positiva.
 
 ## Contacto
 
@@ -60,6 +60,6 @@ Si tienes dudas o quieres comunicarte con el equipo, puedes escribirnos a travé
 
 ---
 
-Para explorar más, visita la [página principal de la wiki FilosofIA](https://a-lfre-do.github.com/FilosofIA-Wiki).
+Para explorar más, visita la [página principal de la wiki FilosofIA](https://a-lfre-do.github.com/Filosof-IA).
 
 ¡Esperamos tus valiosas contribuciones para hacer crecer juntos este espacio de conocimiento!
