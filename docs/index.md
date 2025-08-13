@@ -5,7 +5,7 @@ has_children: true
 has_toc: false
 ---
 
-<p align="center">
+<p align="left">
   <img src="./assets/images/Desafio-Filosof-IA.png" 
        alt="Desafío Filosofía" 
        style="max-height: 220px; width: auto;">
@@ -13,7 +13,7 @@ has_toc: false
 
 # 🏛️ FilosofIA — Wiki de IA en Educación y Filosofía
 
-Bienvenido/a a **FilosofIA**, un proyecto colaborativo para docentes y estudiantes que desean integrar la inteligencia artificial de forma crítica, ética y pedagógica en el aula.
+Te damos la bienvenida a **Filosof-IA**, un proyecto colaborativo para docentes y estudiantes que desean integrar la inteligencia artificial de forma crítica, ética y pedagógica en el aula.
 
 Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóricos y estrategias para el uso responsable de **IA generativa en contextos educativos**, con especial énfasis en el debate filosófico.
 
