@@ -35,6 +35,7 @@ Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóric
 
 ## 📢 Contenidos destacados
 
+- 📝 ["DESAFÍO FILOSOF-IA ¿Quién es responsable? IA y decisiones para políticas públicas"](https://filosofia.uchile.cl/noticias/230430/desafio-filosof-ia)
 - 📝 [Noticias y Actualizaciones](Comunidad/Noticias-Actualizaciones.md)
 - 🎓 [Eventos y Talleres](Comunidad/Eventos-Talleres.md)
 - 🗣️ [Debates 2025](Debates/2025/index.md)
@@ -42,6 +43,8 @@ Esta wiki ofrece recursos prácticos, plantillas de trabajo, fundamentos teóric
 ---
 
 ## 📢 Convocatoria 2025
+
+El Centro de Estudios de Etica Aplicada ([CEDEA](https://filosofia.uchile.cl/cedea/)) de la Facultad de Filosofía y Humanidades de la Universidad de Chile (UCH), en colaboración con el Departamento de Filosofía, organizan DESAFÍO FILOSOF-IA, un Campeonato interescolar de Debates Filosóficos anuales en formato presencial que invita a estudiantes secundarios de 3ero y 4to medio, en conjunto con sus profesores de filosofía, debatir filosóficamente sobre diversos dilemas éticos, existenciales y políticos relacionados con la Inteligencia Artificial (IA) y utilizando precisamente herramientas IA, como ChatGPT u otras herramientas afines, de software abierto. Los debates se realizarán del **27 de octubre al 10 de noviembre de 2025**
 
 Invitamos a estudiantes, educadores y entusiastas a participar en los eventos de debate de este año. Para información detallada sobre cómo unirse, fechas importantes y pautas, por favor consulte la página de [Convocatoria 2025](./Debates/2025/Convocatoria-2025.md).
 
@@ -53,7 +56,11 @@ Los documentos oficiales del torneo están disponibles en el repositorio:
 - [Estructura y formato (PDF)](./Debates/2025/Estructura_y_formato_2025.pdf)  
 - [Tema 2025 (PDF)](./Debates/2025/Tema_2025.pdf)
 
-## 🖼️ Gráfica de Convocatoria
+Más informaciones en: [CEDEA](https://filosofia.uchile.cl/cedea/) y en desafiofilosofia@uchile.cl
+
+---
+
+## 🖼️ Afiche
 
 ![Imagen oficial del Desafío Filosof-IA 2025](./Debates/2025/Imagen_Oficial_Desafio_FilosofIA_2025.png)
 
