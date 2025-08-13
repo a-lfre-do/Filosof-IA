@@ -1,24 +1,23 @@
 ---
 ---
 
-/* Logo horizontal (2:1) en la cabecera lateral de Just the Docs */
-.site-logo img {
-  width: 180px;     /* tamaño base en escritorio */
-  height: auto;     /* mantiene proporción 2:1 */
-  max-width: 100%;
+/* Force the logo to a larger responsive size (sidebar header) */
+.sidebar .site-title .site-logo img {
+  height: 100px !important;   /* desktop/tablet default */
+  width: auto !important;     /* keep 2:1 ratio */
+  max-width: 100% !important;
 }
 
-/* Tablets (iPad, ≤ 1024px): un poco más grande */
+/* iPad-ish widths */
 @media (max-width: 1024px) {
-  .site-logo img { width: 220px; }
+  .sidebar .site-title .site-logo img {
+    height: 120px !important;
+  }
 }
 
-/* Móviles (≤ 740px): que siga siendo visible sin romper layout */
+/* Phones */
 @media (max-width: 740px) {
-  .site-logo img { width: 200px; }
-}
-
-/* Móviles pequeños (≤ 500px) */
-@media (max-width: 500px) {
-  .site-logo img { width: 180px; }
+  .sidebar .site-title .site-logo img {
+    height: 100px !important;
+  }
 }
