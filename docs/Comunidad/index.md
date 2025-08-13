@@ -1,7 +1,7 @@
 ---
-title: Comunidad
+title: 🤝 Comunidad
 nav_order: 8
-has_children: true
+has_children: false
 permalink: /Comunidad/
 has_toc: false
 ---
