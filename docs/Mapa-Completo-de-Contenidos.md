@@ -1,5 +1,5 @@
 ---
-title: Mapa Completo de Contenidos
+title: 🔍 Mapa Completo de Contenidos
 nav_order: 3
 permalink: /Mapa-Completo-de-Contenidos/
 has_toc: false

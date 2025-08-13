@@ -1,5 +1,5 @@
 ---
-title: 🤝 Comunidad
+title: Comunidad
 nav_order: 8
 has_children: true
 permalink: /Comunidad/
@@ -13,6 +13,8 @@ En esta sección reunimos todo lo necesario para **sumarte a FilosofIA**: formas
 ## Accesos rápidos
 - ➕ [Cómo Contribuir](./Como-Contribuir.md)
 - 📦 [Repositorio de Contribuciones](./Repositorio-Contribuciones.md)
+- 🗓️ [Eventos y Talleres](./Eventos-Talleres.md)
+- 📝 [Noticias y Actualizaciones](./Noticias-Actualizaciones.md)
 
 ## ¿Qué encontrarás aquí?
 - Guía paso a paso para enviar **mejoras, correcciones y nuevos contenidos**.
