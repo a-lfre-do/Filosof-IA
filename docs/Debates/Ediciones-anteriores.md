@@ -1,10 +1,10 @@
----
-title: Debates Anteriores
-nav_order: 3
-permalink: /Debates-anteriores/
-layout: default
-has_children: false
----
+% ---
+% title: Debates Anteriores
+% nav_order: 3
+% permalink: /Ediciones-anteriores/
+% layout: default
+% has_children: false
+% ---
 
 # Debates en Filosof-IA
 
