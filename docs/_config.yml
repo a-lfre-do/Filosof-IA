@@ -16,7 +16,7 @@ plugins:
 
 # Navegación
 logo: >
-  <img src="/Filosof-IA/assets/images/Filosof-IA.png" 
+  <img src="/Filosof-IA/assets/images/Desafio-Filosof-IA.png"
        alt="Logo FilosofIA" 
        class="d-block xs:w-40 sm:w-48 md:w-56 lg:w-64" />
 search_enabled: true
