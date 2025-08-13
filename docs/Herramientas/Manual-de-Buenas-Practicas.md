@@ -1,10 +1,3 @@
----
-title: Manual de Buenas Prácticas en el Aula
-nav_order: 2
-parent: Herramientas
-has_toc: true
----
-
 # 📚 Manual de Buenas Prácticas en el Aula (Docentes y Estudiantes)
 
 Este manual ofrece pautas claras para integrar **IA generativa** (p. ej., LLMs) en el aula de forma **ética, segura y pedagógica**. Sirve tanto para **docentes** como para **estudiantes**, con listas de verificación, ejemplos paso a paso y plantillas.
@@ -28,12 +21,11 @@ Este manual ofrece pautas claras para integrar **IA generativa** (p. ej., LLMs) 
 
 📎 Lecturas base:
 - UNESCO — [Guía para el uso de IA generativa en educación e investigación](https://www.unesco.org/es/articles/guia-para-el-uso-de-ia-generativa-en-educacion-e-investigacion)  
-- UNESCO — [Marco de competencias para docentes en materia de IA](https://www.unesco.org/es/articles/marco-de-competencias-para-docentes-en-materia-de-ia)  
-- OSTP (EE. UU.) — [Blueprint for an AI Bill of Rights](https://bidenwhitehouse.archives.gov/ostp/ai-bill-of-rights/)
+- UNESCO — [Marco de competencias para docentes en materia de IA](https://www.unesco.org/es/articles/marco-de-competencias-para-docentes-en-materia-de-ia) 
 
 🔗 Enlaces internos:
-- [[Etica-y-Responsabilidad-en-IA]] · [[Alfabetización de Datos en Contexto Educativo]]  
-- [[Prompt Engineering para Docentes]] · [[Plantillas de Prompts para Debates]] · [[Sesgos, Equidad y Justicia en IA]]
+- [Ética y Responsabilidad en IA](../Etica/Etica-y-Responsabilidad-en-IA.md) · [Alfabetización de Datos en Contexto Educativo](../Fundamentos/Alfabetizacion-de-Datos-en-Contexto-Educativo.md)  
+- [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes.md) · [Plantillas de Prompts para Debates](./Plantillas-de-Prompts-para-Debates.md) · [Sesgos, Equidad y Justicia en IA](../Fundamentos/Sesgos-Equidad-Justicia-en-IA.md)
 
 ---
 
@@ -293,9 +285,8 @@ Tarea: P1, P2, C; 1 posible falacia; mejora breve.
 
 ## 📎 Recursos y enlaces internos
 
-- Externos: UNESCO (guías y marco de competencias), AI Bill of Rights.  
-- Internos: [[Plantillas de Prompts para Debates]] · [[IA en el Aula: Herramientas y Usos Actuales]] · [[Analítica del Aprendizaje y Dashboards Educativos]] · [[Sesgos, Equidad y Justicia en IA]].
+- [Plantillas de Prompts para Debates](./Plantillas-de-Prompts-para-Debates.md) · [IA en el Aula: Herramientas y Usos Actuales](../Fundamentos/IA-en-el-Aula-Herramientas-y-Usos-Actuales.md) · [Analítica del Aprendizaje y Dashboards Educativos](../Fundamentos/Analitica-del-Aprendizaje-y-Dashboards-Educativos.md) · [Sesgos, Equidad y Justicia en IA](../Fundamentos/Sesgos-Equidad-Justicia-en-IA.md).
 
 ---
 
-*Para profundizar en técnicas de diseño de prompts y context engineering, consulta también el documento [[Prompt Engineering para Docentes]].*
+*Para profundizar en técnicas de diseño de prompts y context engineering, consulta también el documento [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes.md).*

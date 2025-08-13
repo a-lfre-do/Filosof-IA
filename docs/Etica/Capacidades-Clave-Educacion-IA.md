@@ -1,10 +1,10 @@
 ---
-title: Capacidades Clave en Educación y IA Generativa
+title: Capacidades Clave en Educación e IA Generativa
 parent: Ética
 nav_order: 3
 ---
 
-# 🎯 Capacidades Clave en Educación y IA Generativa
+# 🎯 Capacidades Clave en Educación e IA Generativa
 
 A continuación se presentan las principales **capacidades humanas** identificadas por Martha Nussbaum y Amartya Sen, reinterpretadas para su aplicación en **contextos educativos con uso de IA generativa**.  
 Este marco busca ayudar a **docentes y estudiantes** a identificar riesgos y diseñar estrategias para proteger y fomentar dichas capacidades.

@@ -1,11 +1,11 @@
 ---
-title: 🔍 Mapa Completo de Contenidos
+title: 🔍 Mapa de Contenidos
 nav_order: 3
 permalink: /Mapa-Completo-de-Contenidos/
 has_toc: false
 ---
 
-# 🔍 Mapa Completo de Contenidos
+# 🔍 Mapa de Contenidos
 
 Esta página sirve como una guía completa de navegación para todas las secciones y entradas del wiki FilosofIA. Aquí encontrarás un índice estructurado que te permitirá acceder fácilmente a cada tema y recurso disponible en el proyecto.
 

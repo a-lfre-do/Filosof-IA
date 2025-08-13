@@ -22,11 +22,7 @@ Diversos organismos internacionales han establecido principios para guiar el des
   - Fomenta el crecimiento inclusivo, el bienestar humano, la transparencia, la solidez técnica y la responsabilidad.
   - [Principios de la OCDE](https://oecd.ai/en/ai-principles)
 
-- **CELAC – Declaración sobre Principios Éticos para la IA (2023):**
-  - Reconoce la importancia de un enfoque latinoamericano que priorice la inclusión social, la diversidad cultural y la soberanía tecnológica en el desarrollo y uso de IA.
-  - [Texto de la Declaración (CELAC)](https://celac.rree.gob.sv/declaracion-principios-ia/)
-
-Estos principios pueden consultarse en mayor profundidad en la sección [Ética y Responsabilidad en IA](Ética-y-Responsabilidad-en-IA.md).
+Estos principios pueden consultarse en mayor profundidad en la sección [Ética y Responsabilidad en IA](./Etica-y-Responsabilidad-en-IA.md).
 
 ## 3. 📜 Marco Regulatorio Chileno
 
@@ -45,7 +41,7 @@ En Chile, el uso de IA se encuentra influenciado por normativas existentes y pro
   - [Seguimiento de proyectos de ley sobre IA](https://www.camara.cl/legislacion/proyectos.aspx)
   - [Ley Marco sobre Ciberseguridad y Protección de la Información](https://www.bcn.cl/leychile/navegar?idNorma=1170842) (en tramitación)
 
-Revisa también la sección [Sesgos, Equidad y Justicia en IA](Sesgos-Equidad-y-Justicia-en-IA.md).
+Revisa también la sección [Sesgos, Equidad y Justicia en IA](../Fundamentos/Sesgos-Equidad-Justicia.md).
 
 ## 4. 🎓 Buenas Prácticas en el Aula
 
@@ -59,7 +55,7 @@ Para cumplir con los principios éticos y las regulaciones, se recomienda:
 - Consultar regularmente las actualizaciones legales y éticas relevantes.
 - Integrar el enfoque de capacidades de Sen y Nussbaum para evaluar el impacto de la IA en el desarrollo integral de los estudiantes, con especial atención a la equidad y la autonomía. Véase [[Capacidades-Clave-Educacion-IA.md|Capacidades clave en educación y IA generativa]].
 
-Puedes encontrar un listado detallado en el [Manual de Buenas Prácticas](Manual-de-Buenas-Practicas.md).
+Puedes encontrar un listado detallado en el [Manual de Buenas Prácticas](../Herramientas/Manual-de-Buenas-Practicas.md).
 
 ## 5. 📚 Recursos Oficiales
 
@@ -75,6 +71,6 @@ Puedes encontrar un listado detallado en el [Manual de Buenas Prácticas](Manual
 ---
 
 **Enlaces internos relacionados:**
-- [Ética y Responsabilidad en IA](Ética-y-Responsabilidad-en-IA.md)
-- [Sesgos, Equidad y Justicia en IA](Sesgos-Equidad-y-Justicia-en-IA.md)
-- [Manual de Buenas Prácticas](Manual-de-Buenas-Practicas.md)
+- [Ética y Responsabilidad en IA](./Etica-y-Responsabilidad-en-IA.md)
+- [Sesgos, Equidad y Justicia en IA](../Fundamentos/Sesgos-Equidad-Justicia.md)
+- [Manual de Buenas Prácticas](../Herramientas/Manual-de-Buenas-Practicas.md)
