@@ -1,19 +1,24 @@
-/* Logo en escritorio */
+---
+---
+
+/* Logo horizontal (2:1) en la cabecera lateral de Just the Docs */
 .site-logo img {
-  max-width: 140px; 
-  height: auto;
+  width: 180px;     /* tamaño base en escritorio */
+  height: auto;     /* mantiene proporción 2:1 */
+  max-width: 100%;
 }
 
-/* Logo en tablets */
+/* Tablets (iPad, ≤ 1024px): un poco más grande */
 @media (max-width: 1024px) {
-  .site-logo img {
-    max-width: 180px;
-  }
+  .site-logo img { width: 220px; }
 }
 
-/* Logo en móviles */
-@media (max-width: 768px) {
-  .site-logo img {
-    max-width: 200px; 
-  }
+/* Móviles (≤ 740px): que siga siendo visible sin romper layout */
+@media (max-width: 740px) {
+  .site-logo img { width: 200px; }
+}
+
+/* Móviles pequeños (≤ 500px) */
+@media (max-width: 500px) {
+  .site-logo img { width: 180px; }
 }
