@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 # Navegación
-logo: /Filosof-IA/assets/images/Filosof-IA.png
+logo: /assets/images/Filosof-IA.png
 logo_alt: "FilosofIA"
 search_enabled: true
 
