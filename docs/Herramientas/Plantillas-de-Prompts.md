@@ -1,5 +1,5 @@
 ---
-title: Plantillas de Prompts
+title: 📝 Plantillas de Prompts
 nav_order: 4
 parent: Herramientas
 ---

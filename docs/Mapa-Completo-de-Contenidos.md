@@ -1,8 +1,8 @@
 ---
 title: Mapa Completo de Contenidos
 nav_order: 3
-permalink: /mapa-completo/
-has_toc: true
+permalink: /Mapa-Completo-de-Contenidos/
+has_toc: false
 ---
 
 # 🔍 Mapa Completo de Contenidos
