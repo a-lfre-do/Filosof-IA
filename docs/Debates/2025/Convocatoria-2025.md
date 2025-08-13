@@ -48,10 +48,10 @@ El torneo se desarrollará siguiendo una estructura adaptada de los formatos WSD
 
 Los documentos oficiales del torneo están disponibles en el repositorio:
 
-- [Bases DESAFÍO Filosofía 2025 (PDF)](./Bases_DESAFÍO_Filosofía_2025.pdf)  
-- [Estructura y formato (PDF)](https://github.com/a-lfre-do/Filosof-IA/docs/Debates/2025/Estructura_y_formato_2025.pdf)  
-- [Tema 2025 (PDF)](https://github.com/a-lfre-do/Filosof-IA/docs/Debates/2025/Tema_2025.pdf)
+- [Bases DESAFÍO Filosofía 2025 (PDF)](Bases_Desafio_FilosofIA_2025.pdf)  
+- [Estructura y formato (PDF)](Estructura_y_formato_2025.pdf)  
+- [Tema 2025 (PDF)](Tema_2025.pdf)
 
 ## 🖼️ Imagen oficial
 
-![Imagen oficial del Desafío Filosof-IA 2025](/Filosof-IA/docs/Debates/2025/Imagen_Oficial_Desafío_FilosofIA_2025.png)
+![Imagen oficial del Desafío Filosof-IA 2025](Imagen_Oficial_Desafio_FilosofIA_2025.png)
