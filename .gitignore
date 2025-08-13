@@ -1,0 +1,39 @@
+# =========================
+# Jekyll build files
+# =========================
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# =========================
+# Front Matter for VS Code
+# =========================
+.frontmatter/database/
+frontmatter.json
+
+# =========================
+# VS Code settings
+# =========================
+.vscode/
+*.code-workspace
+
+# =========================
+# System files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Node / npm (if used for tooling)
+# =========================
+node_modules/
+package-lock.json
+yarn.lock
+
+# =========================
+# Logs and temporary files
+# =========================
+*.log
+*.tmp
+*.temp
