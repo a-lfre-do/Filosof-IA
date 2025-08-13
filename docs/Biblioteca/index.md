@@ -19,6 +19,6 @@ Esta sección recopila recursos seleccionados, documentos y enlaces que apoyan a
 
 - [UNESCO - Inteligencia Artificial](https://es.unesco.org/themes/ict-education/artificial-intelligence)
 - [OECD AI Principles](https://www.oecd.org/going-digital/ai/principles/)
-- [CEPAL - Superar las trampas del desarrollo de América Latina y el Caribe en la era digital: el potencial transformador de las tecnologías digitales y la inteligencia artificial]([https://hdl.handle.net/11362/80841])
+- [CEPAL - Superar las trampas del desarrollo de América Latina y el Caribe en la era digital: el potencial transformador de las tecnologías digitales y la inteligencia artificial](https://hdl.handle.net/11362/80841)
 
 Si deseas contribuir a esta sección, te invitamos a visitar la página “Cómo Contribuir” en la carpeta Comunidad.
