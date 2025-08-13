@@ -69,15 +69,15 @@ Se trata de **diseñar la interacción completa** (no solo el prompt aislado), t
 ---
 
 ## 📂 Recursos Relacionados
-- [📄 Plantillas de Prompts para Debates](./Plantillas-de-Prompts-para-Debates.md)  
-- [📘 Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas-en-el-Aula.md)  
+- [📄 Plantillas de Prompts](./Plantillas-de-Prompts.md)  
+- [📘 Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas.md)  
 - [⚖️ Ética y Responsabilidad en IA](../Etica/Etica-y-Responsabilidad-en-IA.md)  
 
 ---
 
 ## 🚀 Próximo Paso
-Explora [📄 Plantillas de Prompts para Debates](./Plantillas-de-Prompts-para-Debates.md) para comenzar a aplicar estas técnicas en tu primera sesión de debate asistido por IA.
+Explora [📄 Plantillas de Prompts para Debates](./Plantillas-de-Prompts.md) para comenzar a aplicar estas técnicas en tu primera sesión de debate asistido por IA.
 
 ---
 
-> Nota: Para un enfoque complementario centrado en reglas, políticas y ejemplos prácticos de aplicación en el aula, consulta también el [📘 Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas-en-el-Aula.md).
+> Nota: Para un enfoque complementario centrado en reglas, políticas y ejemplos prácticos de aplicación en el aula, consulta también el [📘 Manual de Buenas Prácticas en el Aula](../Herramientas/Manual-de-Buenas-Practicas.md).

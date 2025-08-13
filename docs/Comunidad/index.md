@@ -1,6 +1,6 @@
 ---
 title: Comunidad
-nav_order: 6
+nav_order: 8
 has_children: true
 permalink: /Comunidad/
 has_toc: false
