@@ -1,8 +1,8 @@
 title: "FilosofIA"
 description: Wiki colaborativa sobre IA generativa en educación y filosofía
 remote_theme: just-the-docs/just-the-docs
-just_the_docs:
-  custom_css: assets/css/custom.scss
+# just_the_docs:
+#   custom_css: assets/css/custom.scss
   
 plugins:
   - jekyll-remote-theme
@@ -15,7 +15,7 @@ plugins:
   - jekyll-include-cache
 
 # Navegación
-logo: /assets/images/Desafio-Filosof-IA.png
+logo: false
 logo_alt: "Desafío Filosof-IA"
 search_enabled: true
 
