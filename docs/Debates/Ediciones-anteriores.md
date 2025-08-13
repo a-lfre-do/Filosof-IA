@@ -1,9 +1,9 @@
 ---
-title: 🏆 Debates
+title: Debates Anteriores
 nav_order: 3
-permalink: /Debates/
+permalink: /Debates-anteriores/
 layout: default
-has_children: true
+has_children: false
 ---
 
 # Debates en Filosof-IA
