@@ -29,3 +29,11 @@ kramdown:
   input: GFM
 
 footer_content: "Hecho con ❤️ por docentes y estudiantes. Licencia CC BY-SA 4.0."
+
+footer_logos:
+  - image: assets/images/logo-1.png
+    alt: "Blasón Universidad de Chile"
+    width: 120px
+  - image: assets/images/logo-2.png
+    alt: "Facultad de Filosofía y Humanidades, Universidad de Chile"
+    width: 120px
