@@ -1,8 +1,9 @@
 ---
-title: Debates
+title: 🏆 Debates
 nav_order: 3
 permalink: /Debates/
 layout: default
+has_children: true
 ---
 
 # Debates en Filosof-IA

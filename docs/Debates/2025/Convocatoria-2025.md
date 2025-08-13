@@ -1,7 +1,7 @@
 ---
 title: Convocatoria 2025
 nav_order: 1
-parent: 2025
+parent: Debates 2025
 has_toc: true
 ---
 

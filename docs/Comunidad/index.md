@@ -1,5 +1,5 @@
 ---
-title: Comunidad
+title: 🤝 Comunidad
 nav_order: 8
 has_children: true
 permalink: /Comunidad/

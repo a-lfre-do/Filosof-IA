@@ -1,6 +1,7 @@
 ---
-title: Debates 2025 🗣️
-nav_order: 3
+title: Debates 2025
+parent: /Debates/
+has_children: true
 ---
 
 # Debates 2025 🗣️
