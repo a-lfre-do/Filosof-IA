@@ -28,4 +28,3 @@ Esta sección reúne los conceptos esenciales, la historia y los fundamentos té
 ## 🔗 Enlaces relacionados
 - [UNESCO – Inteligencia Artificial y Educación](https://www.unesco.org/es/artificial-intelligence/education)
 - [OECD – AI Policy Observatory](https://oecd.ai)
-- [Stanford HAI – Recursos Educativos](https://hai.stanford.edu/education)

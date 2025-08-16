@@ -36,10 +36,9 @@ Además, se ha detectado sesgo lingüístico en IA generativa que produce respue
 3. **Usar el sesgo como recurso didáctico**: analizar críticamente qué voces quedan fuera y por qué.  
 4. **Promover alfabetización en IA**: enseñar a detectar sesgos y fomentar el uso de lenguaje inclusivo para una comunicación más equitativa.  
 
-## 🌍 Referencias externas  
-
-- [Observatorio de IA en Educación – OEI](https://oei.org/es/observatorio-ia-educacion)  
-- [OECD AI Principles](https://aiethicslab.rutgers.edu/glossary/oecd-ai-principles/)  
+## 🌍 Referencias externas 
+- [UNESCO: Recomendación sobre la ética de la inteligencia artificial](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa)
+- [OECD AI Principles](https://www.oecd.org/en/topics/ai-principles.html)  
 - [UNESCO: Guía para el uso de IA generativa en educación e investigación](https://www.unesco.org/es/articles/guia-para-el-uso-de-ia-generativa-en-educacion-e-investigacion)  
 
 ## 🔗 Enlaces internos  

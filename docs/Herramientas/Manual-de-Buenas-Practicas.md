@@ -1,6 +1,6 @@
-# 📚 Manual de Buenas Prácticas en el Aula (Docentes y Estudiantes)
+# 📚 Buenas Prácticas para el uso de IA en el Aula
 
-Este manual ofrece pautas claras para integrar **IA generativa** (p. ej., LLMs) en el aula de forma **ética, segura y pedagógica**. Sirve tanto para **docentes** como para **estudiantes**, con listas de verificación, ejemplos paso a paso y plantillas.
+A continuación se ofrecen pautas para facilitar la integración de **IA generativa** (p. ej., LLMs) en el aula de forma **ética, segura y pedagógica**. Sirve tanto para **docentes** como para **estudiantes**, con listas de verificación, ejemplos paso a paso y plantillas.
 
 > Idea fuerza: la IA es un **asistente** para aprender mejor; no reemplaza el pensamiento crítico ni la guía humana.
 
@@ -19,7 +19,7 @@ Este manual ofrece pautas claras para integrar **IA generativa** (p. ej., LLMs) 
 5. **Equidad y diversidad**
    - Incluir perspectivas variadas; evitar sesgos.
 
-📎 Lecturas base:
+📎 Material de organismos internacionales:
 - UNESCO — [Guía para el uso de IA generativa en educación e investigación](https://www.unesco.org/es/articles/guia-para-el-uso-de-ia-generativa-en-educacion-e-investigacion)  
 - UNESCO — [Marco de competencias para docentes en materia de IA](https://www.unesco.org/es/articles/marco-de-competencias-para-docentes-en-materia-de-ia) 
 

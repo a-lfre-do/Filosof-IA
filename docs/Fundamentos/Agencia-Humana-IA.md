@@ -37,8 +37,7 @@ La incorporación de IA en la educación transforma la relación tradicional doc
 ## 🌍 Referencias externas  
 
 - [UNESCO – Guía para el uso de IA en educación e investigación](https://www.unesco.org/es/articles/guia-para-el-uso-de-ia-generativa-en-educacion-e-investigacion)  
-- [Generative AI in Teaching and Learning: UT Guides and Recommendations](https://ctl.utexas.edu/generative-ai-teaching-and-learning-ut-guides-and-recommendations)  
-- [Teaching with Generative AI – UNC Chapel Hill](https://ai.unc.edu/teaching-generative-ai-usage-guidance-2/)  
+
 
 ## 🔗 Enlaces internos  
 

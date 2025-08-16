@@ -10,11 +10,12 @@ Recopilación de guías, cursos, bibliotecas de prompts, artículos y recursos a
 
 ---
 
-## ✍️ Guías de políticas y lineamientos
+## ✍️ Guías de políticas y lineamientos sobre IA
 
 | Recurso | Características | Fuente | Idioma | Licencia |
 | --- | --- | --- | --- | --- |
-| [**Guidance for generative AI in education and research**](https://www.unesco.org/en/articles/guidance-generative-ai-education-and-research) | Guía global UNESCO para políticas y ética en IA generativa en educación. | UNESCO | EN / ES | Acceso abierto |
+| [**UNESCO: Recomendación sobre la ética de la inteligencia artificial**](https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa) | Guía global UNESCO para políticas y ética en IA generativa en educación. | UNESCO | EN / ES | Acceso abierto |
+| [**UNESCO: Marco de competencias para estudiantes en materia de IA**](https://unesdoc.unesco.org/ark:/48223/pf0000393812) | Este marco pone énfasis en el juicio crítico de las soluciones de IA, la conciencia de las responsabilidades ciudadanas en la era de la IA, el conocimiento fundacional de la IA para el aprendizaje a lo largo de la vida, y el diseño de IA inclusiva y sostenible. | UNESCO | EN / ES | Acceso abierto |
 | [**La inteligencia artificial en la educación (UNESCO)**](https://www.unesco.org/es/digital-education/artificial-intelligence) | Portal con políticas, proyectos y recomendaciones en IA educativa. | UNESCO | ES / EN | Acceso abierto |
 | [**El Observatorio de Políticas de Inteligencia Artificial de la OCDE**](https://oecd.ai/en/) | Políticas y análisis para promover IA confiable, con recursos alineados a Principios OCDE. | OCDE | EN | Acceso abierto |
 | [**El futuro de la inteligencia artificial en educación en América Latina**](https://oei.int/oficinas/secretaria-general/publicaciones/el-futuro-de-la-inteligencia-artificial-en-educacion-en-america-latina) | Informe sobre posibilidades, riesgos y límites de la IA en la región. | OEI | ES | Acceso abierto |
@@ -29,12 +30,10 @@ Recopilación de guías, cursos, bibliotecas de prompts, artículos y recursos a
 
 ---
 
-## 📃 Artículos y estudios
+## 📃 Material sobre Debates
 
 | Recurso | Características | Fuente | Idioma | Licencia |
 | --- | --- | --- | --- | --- |
-| [**IA para la recomendación de recursos educativos**](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1665-61802024000200006) | Uso de IA para recomendar recursos y mejorar el aprendizaje. | RIED | ES | Open Access |
-| [**La Inteligencia Artificial en Educación**](https://dialnet.unirioja.es/descarga/libro/926431.pdf) | Tendencias, retos y perspectivas éticas en educación. | Universidad (Dialnet) | ES | CC BY-NC |
 
 ---
 
@@ -54,4 +53,4 @@ Recopilación de guías, cursos, bibliotecas de prompts, artículos y recursos a
 
 - 🔗 [Ética y Responsabilidad en IA](Ética-y-Responsabilidad-en-IA.md)
 - 🔗 [Conceptos básicos de IA](Conceptos-basicos-IA.md)
-- 🔗 [Historia breve de la IA](Historia-breve-IA.md)
+

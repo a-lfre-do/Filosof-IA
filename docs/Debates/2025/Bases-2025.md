@@ -13,7 +13,7 @@ parent: Eventos
 ---
 
 El **Centro de Estudios de Ética Aplicada (CEDEA)** de la Facultad de Filosofía y Humanidades de la Universidad de Chile (UCH), junto al Departamento de Filosofía, organizan el **DESAFÍO FILOSOF-IA**:  
-> 🗣️ Un campeonato interescolar anual de **debates filosóficos** en formato presencial, para estudiantes de 3° y 4° medio y sus docentes, sobre dilemas éticos, existenciales y políticos vinculados a la **Inteligencia Artificial (IA)**.  
+> 🗣️ Un campeonato interescolar anual de **debates filosóficos** en formato presencial, para estudiantes de 3° y 4° medio y sus docentes de filosofía, sobre dilemas éticos, existenciales y políticos vinculados a la **Inteligencia Artificial (IA)**.  
 > 💡 Los debates incorporan el uso de herramientas de IA como ChatGPT u otras de software abierto.
 
 ---
@@ -64,10 +64,10 @@ Posicionar a la **filosofía** como disciplina clave para comprender, desafiar y
 
 ## 🛠️ 5. Desarrollo del campeonato
 
-📅 El campeonato se desarrolla en **una jornada** de elaboración y discusión filosófica en torno a un tema ético, político o existencial definido en la convocatoria, usando y evaluando herramientas de IA.
+📅 El campeonato se desarrolla en **una jornada** de elaboración y discusión filosófica en torno a un tema ético, político o existencial definido en la convocatoria, usando, ponderando y desafiando los alcances de herramientas de IA para tratarlos.
 
 👥 **Equipos:**  
-5 estudiantes (3 expositores/as + 2 investigadores/as), acompañados/as por su docente de filosofía y apoyados por tutores/as y académicos/as de la UCH.  
+Estudiantes acompañados/as por su docente de filosofía y apoyados por tutores/as y académicos/as de la UCH.  
 
 ⚖️ **Jurados:**  
 Académicos/as, estudiantes y egresados/as de Licenciatura en Filosofía de la UCH.

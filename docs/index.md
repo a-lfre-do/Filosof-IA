@@ -11,7 +11,7 @@ has_toc: false
        style="max-height: 220px; width: auto;">
 </p>
 
-# 🏛️ FilosofIA — Wiki de IA en Educación y Filosofía
+# 🏛️ FilosofIA — IA en Educación, Debates y Filosofía
 
 Te damos la bienvenida a **Filosof-IA**, un proyecto colaborativo para docentes y estudiantes que desean integrar la inteligencia artificial de forma crítica, ética y pedagógica en el aula.
 
