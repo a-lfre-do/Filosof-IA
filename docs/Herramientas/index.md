@@ -20,9 +20,10 @@ Esta sección reúne **recursos prácticos** para planificar, facilitar y evalua
   - Recomendaciones concretas para usar IA en el aula, con énfasis en **privacidad, transparencia y evaluación auténtica**.
 - 🔧 [Plantillas de Prompts](./Plantillas-de-Prompts.md)
   - Colección de **prompts editables** para debates, análisis de textos, detección de falacias, rúbricas, etc.
-- 🧠 [Prompt Engineering para Docentes](./Prompt-Engineering-para-Docentes.md)
+- 🧠 [Escritura de Prompt para Docentes](./Prompt-Engineering-para-Docentes.md)
   - Técnicas de **rol, contexto y formato** para mejorar la calidad de las respuestas y modelar pensamiento crítico.
-
+- 🧰 [Prompts avanzados para Debates](./Prompt-para-Debates.md)
+  -  Ejemplos y plantillas de prompts avanzados y con el formato específico del Desafío Filosof-IA.
 ---
 
 ## 🔗 Enlaces relacionados
