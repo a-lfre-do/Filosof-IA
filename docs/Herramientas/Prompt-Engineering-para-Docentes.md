@@ -1,12 +1,14 @@
 ---
-title: Prompt Engineering para Docentes
+title: Escritura de Prompts para Docentes
 nav_order: 3
 parent: Herramientas
 ---
-# 🎙️ Prompt Engineering para Docentes
 
-El **Prompt Engineering** es el arte y la técnica de diseñar instrucciones claras, estructuradas y efectivas para interactuar con **Modelos de Lenguaje (LLM)** como ChatGPT.  
-En el contexto de la enseñanza de la filosofía y la práctica del debate, esta habilidad permite a los docentes **optimizar el uso de la IA como herramienta pedagógica**.
+# 🎤 Escritura de Prompts para Docentes
+
+Los **prompts** son instrucciones cuidadosamente diseñadas para interactuar con modelos de IA y obtener respuestas útiles en contextos educativos. En el ámbito de la enseñanza de la filosofía, pueden servir como un **andamio pedagógico** que apoya la preparación, el desarrollo y la evaluación de aprendizajes en debates escolares.
+
+Este documento presenta una **estructura ampliada** para redactar prompts que permitan a docentes y estudiantes usar la IA de manera clara, segura y productiva. La propuesta se inspira en la práctica de torneos de debate (formato **WSDC/MED**) y en la experiencia pedagógica del **Desafío Filosof-IA**.
 
 ---
 
@@ -15,6 +17,37 @@ En el contexto de la enseñanza de la filosofía y la práctica del debate, esta
 - Entender el rol del **context engineering** en la calidad de las respuestas.  
 - Aplicar buenas prácticas para guiar discusiones críticas y argumentativas.  
 - Facilitar la autonomía de los estudiantes en el uso responsable de IA.  
+
+---
+
+## 📌 Elementos clave dentro de un prompt
+
+Cada prompt puede producir diferentes resultados dependiendo del LLM con el que se está trabajando. Existen diferentes maneras de estructurar los prompt, puedes organizarlos en secciones que hacen explícitas las expectativas y delimitan el alcance de la tarea. Algunos de los elementos más relevantes son:
+
+- **Rol** 🧑‍🏫  
+  Indica quién debe “ser” la IA en la simulación (p. ej., jueza de debate, coach, contrincante, diseñador de mociones). Esto ayuda a orientar el tono y nivel de profundidad de la respuesta.
+
+- **Tarea** 🎯  
+  Precisa qué debe hacer la IA: generar mociones, preparar un plan de caso, simular un Punto de Información, evaluar un discurso, etc.
+
+- **Contexto** 🌍  
+  Explica la situación educativa: curso, edad de los estudiantes, formato del debate, objetivos pedagógicos. Permite que la respuesta esté alineada con las necesidades reales del aula.
+
+- **Razonamiento paso a paso** 🔎  
+  Indica el camino lógico que debe seguir la IA para llegar a una salida coherente y detallada, evitando respuestas superficiales o incompletas.
+
+- **Formato de salida** 📝  
+  Define cómo se presentará la respuesta (lista, tabla, guion por minutos, etc.), garantizando claridad y usabilidad directa en el aula.
+
+- **Condiciones de parada** ⛔  
+  Establecen límites para la respuesta (p. ej., no inventar datos, evitar lenguaje ofensivo, mantener nivel escolar). Esto protege la calidad y pertinencia del contenido generado.
+
+---
+
+# 🎙️ "Prompting" y "Prompt Engineering"
+
+**Prompting** y **Prompt Engineering** son nombres otorgados inicialmente a la técnica de diseñar instrucciones claras, estructuradas y efectivas para interactuar con **Modelos de Lenguaje (LLM)** como ChatGPT.  
+En el contexto de la enseñanza de la filosofía y la práctica del debate, esta habilidad permite a los docentes **optimizar el uso de la IA como herramienta pedagógica**, tanto para su práctica docente, como para guiar a el uso de sus estudiantes.
 
 ---
 
