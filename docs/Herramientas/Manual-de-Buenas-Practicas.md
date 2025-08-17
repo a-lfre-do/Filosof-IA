@@ -1,3 +1,9 @@
+---
+
+title:  📚 Buenas Prácticas
+
+---
+
 # 📚 Buenas Prácticas para el uso de IA en el Aula
 
 A continuación se ofrecen pautas para facilitar la integración de **IA generativa** (p. ej., LLMs) en el aula de forma **ética, segura y pedagógica**. Sirve tanto para **docentes** como para **estudiantes**, con listas de verificación, ejemplos paso a paso y plantillas.
